@@ -10,8 +10,7 @@ Ultron is a lowl evel software computer simulation that uses four digit instruct
 ### Count.u
 #### Usage: ./ultron -f count.u
 * count.u will, given an inputted number, count down to zero then dump the core and all associated instructions.
-### Running count.u with -i flag
-#### Usage: ./ultron -i 11
+
 
 
 #### Project Idea Credit to: Dr. See-Mong Tan @Western Washington University
