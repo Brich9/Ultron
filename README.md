@@ -5,6 +5,7 @@
 2. After cloning repository "make ultron" will compile all necessary files.
 ### Count.u
 #### Usage ./ultron -f count.u
+*count.u will, given an inputted number, count down to zero then dump the core and all associated instructions
 ### Program.u
 #### Usage ./ultron -f program.u
 **Project Idea Credit to: Dr. See-Mong Tan @Western Washington University
