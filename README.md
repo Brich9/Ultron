@@ -11,7 +11,7 @@ Ultron is a lowlevel software computer simulation that uses four digit instructi
 #### Usage: ./ultron -f count.u
 * count.u will, given an inputted number, count down to zero then dump the core and all associated instructions.
 
-**Project Idea Credit to: Dr. See-Mong Tan @Western Washington University
+#####Project Idea Credit to: Dr. See-Mong Tan @Western Washington University
 
 **This repository is exlusively for the purposes of displaying my OWN work. Please do not use this code if you are a current student of Dr. Tan. Thank you!
 
